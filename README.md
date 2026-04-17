@@ -61,6 +61,7 @@
 ```bash
 
 docker compose up --build
+```
 
 
 
@@ -129,7 +130,7 @@ http://localhost:8000/docs
 
 ```
 
-Что такое FastAPI?
+Что такое FastAPI? (например)
 
 ```
 
