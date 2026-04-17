@@ -246,7 +246,7 @@ pytest -v
 
 #### Queues
 
-![RabbitMQ Queues](screenshot/queues.png)
+![RabbitMQ Queues](screenshots/queues.png)
 
 
 
